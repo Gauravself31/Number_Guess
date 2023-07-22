@@ -1,4 +1,4 @@
-#                                       Guess A Number Range From 1 To 20
+#                                       Predict A Number Range From 1 To 20
                                                         𝕍
                                  If your PREDICTED NUMBER is equal to the SECRET NUMBER
                                                         𝕍
