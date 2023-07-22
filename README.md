@@ -1,4 +1,4 @@
-                                                        𝕍
+#                                                        𝕍
                                  If your PREDICTED NUMBER is equal to the SECRET NUMBER
                                                         𝕍
                                                       YOU WON
