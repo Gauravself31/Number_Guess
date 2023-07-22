@@ -1,4 +1,4 @@
-#                                      
+# Help and Guidelines                                     
                                       You have to guess a number between 1 to 20 
                                                         𝕍
                                  If your PREDICTED NUMBER is equal to the SECRET NUMBER
